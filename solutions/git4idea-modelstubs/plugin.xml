@@ -1,0 +1,9 @@
+<!DOCTYPE idea-plugin PUBLIC "Plugin/DTD" "http://plugins.intellij.net/plugin.dtd">
+<idea-plugin>
+	<id>mps_dependencies</id>
+	<name>mps_dependencies-pluginxmlcontent</name>
+	<depends>Git4Idea</depends>
+	<extensions defaultExtensionNs="com.intellij">
+		<mps.LanguageLibrary dir="/languages/"/>
+	</extensions>
+</idea-plugin>

@@ -9,6 +9,8 @@ classes_gen
 source_gen
 source_gen.caches
 
+build/
+
 # generated test code and test results
 test_gen
 test_gen.caches
