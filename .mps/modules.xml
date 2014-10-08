@@ -13,9 +13,11 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenSwitch/LangNewGenSwitch.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewIntention/LangNewIntention.mpl" folder="lang_dependencies.intention" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies.typesystem" />
+      <modulePath path="$PROJECT_DIR$/languages/RuntimeSolutionLang/RuntimeSolutionLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/git4idea_testlang/git4idea_testlang.mpl" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/ExternalJava/ExternalJava.msd" folder="external_java" />
       <modulePath path="$PROJECT_DIR$/solutions/ExternalJava_User/ExternalJava_User.msd" folder="external_java" />
+      <modulePath path="$PROJECT_DIR$/solutions/HelloWorldRuntimeSolution/HelloWorldRuntimeSolution.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/ImplicitGeneratorDependencies_Base/ImplicitGeneratorDependencies_Base.msd" folder="implicit_dependencies" />
       <modulePath path="$PROJECT_DIR$/solutions/LangAllTest/LangAllTest.msd" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/solutions/LangBaseTest/LangBaseTest.msd" folder="lang_dependencies" />
@@ -36,6 +38,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_Intermediate/Reexport_Intermediate.msd" folder="reexport" />
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_User/Reexport_User.msd" folder="reexport" />
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_User2/Reexport_User2.msd" folder="reexport" />
+      <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionTest/RuntimeSolutionTest.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-accesstest/git4idea-accesstest.msd" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-modelstubs/git4idea-modelstubs.msd" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea_testbed/git4idea_testbed.msd" folder="pluginaccess" />
