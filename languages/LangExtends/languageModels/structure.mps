@@ -12,5 +12,17 @@
     <property name="rootable" nameId="tpce.1096454100552" value="true" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="drz0.7828359547244626487" resolveInfo="LangBaseConcept" />
   </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="7828359547245500350" nodeInfo="ig">
+    <property name="name" nameId="tpck.1169194664001" value="LangExtendsContent" />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="extends" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="drz0.7828359547244626740" resolveInfo="LangBaseContent" />
+  </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="7828359547245523356" nodeInfo="ig">
+    <property name="name" nameId="tpck.1169194664001" value="LangExtendsIface" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
+    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="7828359547245523357" nodeInfo="ig">
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="drz0.7828359547244626539" resolveInfo="LangBaseIface" />
+    </node>
+  </root>
 </model>
 

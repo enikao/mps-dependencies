@@ -6,24 +6,29 @@
       <modulePath path="$PROJECT_DIR$/languages/LangBase/LangBase.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangExtends/LangExtends.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangImplements/LangImplements.mpl" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/languages/LangNewBehavior/LangNewBehavior.mpl" folder="lang_dependencies" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewBehavior/LangNewBehavior.mpl" folder="lang_dependencies.behavior" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewConstraint/LangNewConstraint.mpl" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/languages/LangNewEditor/LangNewEditor.mpl" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/languages/LangNewIntention/LangNewIntention.mpl" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewEditor/LangNewEditor.mpl" folder="lang_dependencies.editor" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewGenReduction/LangNewGenReduction.mpl" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewGenSwitch/LangNewGenSwitch.mpl" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewIntention/LangNewIntention.mpl" folder="lang_dependencies.intention" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/languages/git4idea_testlang/git4idea_testlang.mpl" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/ExternalJava/ExternalJava.msd" folder="external_java" />
       <modulePath path="$PROJECT_DIR$/solutions/ExternalJava_User/ExternalJava_User.msd" folder="external_java" />
       <modulePath path="$PROJECT_DIR$/solutions/ImplicitGeneratorDependencies_Base/ImplicitGeneratorDependencies_Base.msd" folder="implicit_dependencies" />
       <modulePath path="$PROJECT_DIR$/solutions/LangAllTest/LangAllTest.msd" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/solutions/LangBaseTest/LangBaseTest.msd" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorCallTest/LangBehaviorCallTest.msd" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorExtendsTest/LangBehaviorExtendsTest.msd" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorTest/LangBehaviorTest.msd" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/solutions/LangEditorTest/LangEditorTest.msd" folder="lang_dependencies" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorCallTest/LangBehaviorCallTest.msd" folder="lang_dependencies.behavior" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorExtendsTest/LangBehaviorExtendsTest.msd" folder="lang_dependencies.behavior" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorTest/LangBehaviorTest.msd" folder="lang_dependencies.behavior" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangEditorTest/LangEditorTest.msd" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/solutions/LangExtendsTest/LangExtendsTest.msd" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/solutions/LangIntentionTest/LangIntentionTest.msd" folder="lang_dependencies" />
-      <modulePath path="$PROJECT_DIR$/solutions/LangTypesystemTest/LangTypesystemTest.msd" folder="lang_dependencies" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangGenBaseTest/LangGenBaseTest.msd" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangGenNewReductionTest/LangGenNewReductionTest.msd" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangGenNewSwitchTest/LangGenNewSwitchTest.msd" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangIntentionTest/LangIntentionTest.msd" folder="lang_dependencies.intention" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangTypesystemTest/LangTypesystemTest.msd" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/solutions/PluginMixedTest/PluginMixedTest.msd" folder="plugin" />
       <modulePath path="$PROJECT_DIR$/solutions/PluginStandaloneTest/PluginStandaloneTest.msd" folder="plugin" />
       <modulePath path="$PROJECT_DIR$/solutions/PluginTest/PluginTest.msd" folder="plugin" />
