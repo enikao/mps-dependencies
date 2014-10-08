@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/CircularReferencesLang/CircularReferencesLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/ImplicitGeneratorDependencies_Lang/ImplicitGeneratorDependencies_Lang.mpl" folder="implicit_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangBase/LangBase.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangExtends/LangExtends.mpl" folder="lang_dependencies" />
@@ -15,6 +16,7 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeSolutionLang/RuntimeSolutionLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/git4idea_testlang/git4idea_testlang.mpl" folder="pluginaccess" />
+      <modulePath path="$PROJECT_DIR$/solutions/CircularReferenceTest/CircularReferenceTest.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/ExternalJava/ExternalJava.msd" folder="external_java" />
       <modulePath path="$PROJECT_DIR$/solutions/ExternalJava_User/ExternalJava_User.msd" folder="external_java" />
       <modulePath path="$PROJECT_DIR$/solutions/HelloWorldRuntimeSolution/HelloWorldRuntimeSolution.msd" folder="runtime_solution" />
