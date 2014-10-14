@@ -15,11 +15,13 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewEditor/LangNewEditor.mpl" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenMultiTarget/LangNewGenMultiTarget.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenReduction/LangNewGenReduction.mpl" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewGenRuntimeTarget/LangNewGenRuntimeTarget.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenSwitch/LangNewGenSwitch.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenTarget/LangNewGenTarget.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewIntention/LangNewIntention.mpl" folder="lang_dependencies.intention" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/languages/LangRef/LangRef.mpl" folder="lang_dependencies.reference" />
+      <modulePath path="$PROJECT_DIR$/languages/LangRuntimeTarget/LangRuntimeTarget.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangTarget/LangTarget.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangUseType/LangUseType.mpl" folder="lang_dependencies.reference" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeSolutionLang/RuntimeSolutionLang.mpl" folder="runtime_solution" />
@@ -43,6 +45,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/LangGenNewSwitchTest/LangGenNewSwitchTest.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/LangIntentionTest/LangIntentionTest.msd" folder="lang_dependencies.intention" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenMultiTargetTest/LangNewGenMultiTargetTest.msd" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangNewGenRuntimeTargetTest/LangNewGenRuntimeTargetTest.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenTargetTest/LangNewGenTargetTest.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/LangTypesystemTest/LangTypesystemTest.msd" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/solutions/PluginMixedTest/PluginMixedTest.msd" folder="plugin" />
@@ -52,6 +55,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_Intermediate/Reexport_Intermediate.msd" folder="reexport" />
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_User/Reexport_User.msd" folder="reexport" />
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_User2/Reexport_User2.msd" folder="reexport" />
+      <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionTarget/RuntimeSolutionTarget.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionTest/RuntimeSolutionTest.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-accesstest/git4idea-accesstest.msd" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-modelstubs/git4idea-modelstubs.msd" folder="pluginaccess" />
