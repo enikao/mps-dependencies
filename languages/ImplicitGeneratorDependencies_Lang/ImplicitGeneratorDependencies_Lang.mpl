@@ -18,7 +18,6 @@
         <dependency reexport="false">92227c77-17d2-46ec-a3ac-c6d8516872c6(ImplicitGeneratorDependencies_Base)</dependency>
       </dependencies>
       <usedLanguages>
-        <usedLanguage>a547ae5f-b27b-47e1-8260-f56db6528d58(ImplicitGeneratorDependencies_Lang)</usedLanguage>
         <usedLanguage>b401a680-8325-4110-8fd3-84331ff25bef(jetbrains.mps.lang.generator)</usedLanguage>
         <usedLanguage>d7706f63-9be2-479c-a3da-ae92af1e64d5(jetbrains.mps.lang.generator.generationContext)</usedLanguage>
       </usedLanguages>
@@ -29,15 +28,9 @@
     </generator>
   </generators>
   <sourcePath />
-  <dependencies>
-    <dependency reexport="false">92227c77-17d2-46ec-a3ac-c6d8516872c6(ImplicitGeneratorDependencies_Base)</dependency>
-  </dependencies>
   <usedDevKits>
     <usedDevKit>2677cb18-f558-4e33-bc38-a5139cee06dc(jetbrains.mps.devkit.language-design)</usedDevKit>
   </usedDevKits>
-  <runtime>
-    <dependency reexport="false">36c11d2d-1875-4a95-8bdb-70ea1ac63222(jetbrains.mps.execution.api)</dependency>
-  </runtime>
   <extendedLanguages>
     <extendedLanguage>f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)</extendedLanguage>
   </extendedLanguages>
