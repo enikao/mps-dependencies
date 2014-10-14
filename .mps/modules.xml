@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/AccessoryDependencyLang/AccessoryDependencyLang.mpl" folder="accessory_model" />
       <modulePath path="$PROJECT_DIR$/languages/AccessoryModelLang/AccessoryModelLang.mpl" folder="accessory_model" />
       <modulePath path="$PROJECT_DIR$/languages/CircularReferencesLang/CircularReferencesLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/ImplicitGeneratorDependencies_GenOwnLang/ImplicitGeneratorDependencies_GenOwnLang.mpl" folder="implicit_dependencies.generator" />
@@ -32,9 +33,13 @@
       <modulePath path="$PROJECT_DIR$/languages/LangTarget/LangTarget.mpl" folder="lang_dependencies.generation.target" />
       <modulePath path="$PROJECT_DIR$/languages/LangUseEditorComponent/LangUseEditorComponent.mpl" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/languages/LangUseType/LangUseType.mpl" folder="lang_dependencies.reference" />
+      <modulePath path="$PROJECT_DIR$/languages/RuntimeDependencyLang/RuntimeDependencyLang.mpl" folder="runtime_solution" />
+      <modulePath path="$PROJECT_DIR$/languages/RuntimeDependencyUsedLang/RuntimeDependencyUsedLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeSolutionLang/RuntimeSolutionLang.mpl" folder="runtime_solution" />
+      <modulePath path="$PROJECT_DIR$/languages/RuntimeUsedLang/RuntimeUsedLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/git4idea_testlang/git4idea_testlang.mpl" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/AccessoryModel/AccessoryModel.msd" folder="accessory_model" />
+      <modulePath path="$PROJECT_DIR$/solutions/AccessoryModelDependency/AccessoryModelDependency.msd" folder="accessory_model" />
       <modulePath path="$PROJECT_DIR$/solutions/AccessoryModelTest/AccessoryModelTest.msd" folder="accessory_model" />
       <modulePath path="$PROJECT_DIR$/solutions/CircularReferenceTest/CircularReferenceTest.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/ExternalJava/ExternalJava.msd" folder="external_java" />
@@ -65,8 +70,11 @@
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_Intermediate/Reexport_Intermediate.msd" folder="reexport" />
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_User/Reexport_User.msd" folder="reexport" />
       <modulePath path="$PROJECT_DIR$/solutions/Reexport_User2/Reexport_User2.msd" folder="reexport" />
+      <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionDependency/RuntimeSolutionDependency.msd" folder="runtime_solution" />
+      <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionDependencyUsedLang/RuntimeSolutionDependencyUsedLang.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionTarget/RuntimeSolutionTarget.msd" folder="lang_dependencies.generation.runtime" />
       <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionTest/RuntimeSolutionTest.msd" folder="runtime_solution" />
+      <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionUsedLang/RuntimeSolutionUsedLang.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-accesstest/git4idea-accesstest.msd" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-modelstubs/git4idea-modelstubs.msd" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea_testbed/git4idea_testbed.msd" folder="pluginaccess" />
