@@ -13,6 +13,8 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewBehavior/LangNewBehavior.mpl" folder="lang_dependencies.behavior" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewConstraint/LangNewConstraint.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewEditor/LangNewEditor.mpl" folder="lang_dependencies.editor" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewGenIndependentLangGenBase/LangNewGenIndependentLangGenBase.mpl" folder="lang_dependencies.generation.independent_extends" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewGenIndependentLangGenExtends/LangNewGenIndependentLangGenExtends.mpl" folder="lang_dependencies.generation.independent_extends" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenMultiTarget/LangNewGenMultiTarget.mpl" folder="lang_dependencies.generation.target" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenReduction/LangNewGenReduction.mpl" folder="lang_dependencies.generation.new_gen" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenRuntimeTarget/LangNewGenRuntimeTarget.mpl" folder="lang_dependencies.generation.runtime" />
@@ -44,6 +46,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/LangGenNewReductionTest/LangGenNewReductionTest.msd" folder="lang_dependencies.generation.new_gen" />
       <modulePath path="$PROJECT_DIR$/solutions/LangGenNewSwitchTest/LangGenNewSwitchTest.msd" folder="lang_dependencies.generation.new_gen" />
       <modulePath path="$PROJECT_DIR$/solutions/LangIntentionTest/LangIntentionTest.msd" folder="lang_dependencies.intention" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangNewGenIndependentLangGenTest/LangNewGenIndependentLangGenTest.msd" folder="lang_dependencies.generation.independent_extends" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenMultiTargetTest/LangNewGenMultiTargetTest.msd" folder="lang_dependencies.generation.target" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenRuntimeTargetTest/LangNewGenRuntimeTargetTest.msd" folder="lang_dependencies.generation.runtime" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenTargetTest/LangNewGenTargetTest.msd" folder="lang_dependencies.generation.target" />
