@@ -14,9 +14,11 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewEditor/LangNewEditor.mpl" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenReduction/LangNewGenReduction.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenSwitch/LangNewGenSwitch.mpl" folder="lang_dependencies.generation" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewGenTarget/LangNewGenTarget.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewIntention/LangNewIntention.mpl" folder="lang_dependencies.intention" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/languages/LangRef/LangRef.mpl" folder="lang_dependencies.reference" />
+      <modulePath path="$PROJECT_DIR$/languages/LangTarget/LangTarget.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangUseType/LangUseType.mpl" folder="lang_dependencies.reference" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeSolutionLang/RuntimeSolutionLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/git4idea_testlang/git4idea_testlang.mpl" folder="pluginaccess" />
@@ -38,6 +40,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/LangGenNewReductionTest/LangGenNewReductionTest.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/LangGenNewSwitchTest/LangGenNewSwitchTest.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/LangIntentionTest/LangIntentionTest.msd" folder="lang_dependencies.intention" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangNewGenTargetTest/LangNewGenTargetTest.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/LangTypesystemTest/LangTypesystemTest.msd" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/solutions/PluginMixedTest/PluginMixedTest.msd" folder="plugin" />
       <modulePath path="$PROJECT_DIR$/solutions/PluginStandaloneTest/PluginStandaloneTest.msd" folder="plugin" />
