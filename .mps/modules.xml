@@ -6,6 +6,7 @@
       <modulePath path="$PROJECT_DIR$/languages/CircularReferencesLang/CircularReferencesLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/ImplicitGeneratorDependencies_Lang/ImplicitGeneratorDependencies_Lang.mpl" folder="implicit_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangBase/LangBase.mpl" folder="lang_dependencies" />
+      <modulePath path="$PROJECT_DIR$/languages/LangChild/LangChild.mpl" folder="lang_dependencies.reference" />
       <modulePath path="$PROJECT_DIR$/languages/LangExtends/LangExtends.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangImplements/LangImplements.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewBehavior/LangNewBehavior.mpl" folder="lang_dependencies.behavior" />
@@ -15,6 +16,8 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenSwitch/LangNewGenSwitch.mpl" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewIntention/LangNewIntention.mpl" folder="lang_dependencies.intention" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies.typesystem" />
+      <modulePath path="$PROJECT_DIR$/languages/LangRef/LangRef.mpl" folder="lang_dependencies.reference" />
+      <modulePath path="$PROJECT_DIR$/languages/LangUseType/LangUseType.mpl" folder="lang_dependencies.reference" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeSolutionLang/RuntimeSolutionLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/git4idea_testlang/git4idea_testlang.mpl" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/AccessoryModel/AccessoryModel.msd" folder="accessory_model" />
