@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language namespace="LangNewEditor" uuid="1881fd2c-2893-460b-92bf-14d4ae16cefd">
+<language namespace="LangNewEditorHint" uuid="d1021497-b10d-4e9d-8574-74d07f478a79">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="languageModels" />
@@ -7,7 +7,7 @@
   </models>
   <accessoryModels />
   <generators>
-    <generator generatorUID="LangNewEditor#7828359547244667822" uuid="a1a6b935-bf1c-4886-97ed-f01bbda3cef5">
+    <generator generatorUID="LangNewEditorHint#2502912316844110868" uuid="5ecd4dbc-2bee-4da9-a771-f45d576862b0">
       <models>
         <modelRoot contentPath="${module}" type="default">
           <sourceRoot location="generator/template" />
@@ -15,7 +15,7 @@
       </models>
       <external-templates />
       <usedLanguages>
-        <usedLanguage>1881fd2c-2893-460b-92bf-14d4ae16cefd(LangNewEditor)</usedLanguage>
+        <usedLanguage>d1021497-b10d-4e9d-8574-74d07f478a79(LangNewEditorHint)</usedLanguage>
         <usedLanguage>b401a680-8325-4110-8fd3-84331ff25bef(jetbrains.mps.lang.generator)</usedLanguage>
         <usedLanguage>d7706f63-9be2-479c-a3da-ae92af1e64d5(jetbrains.mps.lang.generator.generationContext)</usedLanguage>
       </usedLanguages>
@@ -26,14 +26,9 @@
     </generator>
   </generators>
   <sourcePath />
-  <dependencies>
-    <dependency reexport="false">d1021497-b10d-4e9d-8574-74d07f478a79(LangNewEditorHint)</dependency>
-  </dependencies>
   <usedDevKits>
     <usedDevKit>2677cb18-f558-4e33-bc38-a5139cee06dc(jetbrains.mps.devkit.language-design)</usedDevKit>
   </usedDevKits>
-  <extendedLanguages>
-    <extendedLanguage>9faa6af6-c7f1-4024-9459-6ba6067dc553(LangBase)</extendedLanguage>
-  </extendedLanguages>
+  <extendedLanguages />
 </language>
 

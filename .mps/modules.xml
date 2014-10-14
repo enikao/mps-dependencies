@@ -19,6 +19,7 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewConstraint/LangNewConstraint.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewEditor/LangNewEditor.mpl" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewEditorComponent/LangNewEditorComponent.mpl" folder="lang_dependencies.editor" />
+      <modulePath path="$PROJECT_DIR$/languages/LangNewEditorHint/LangNewEditorHint.mpl" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenIndependentLangGenBase/LangNewGenIndependentLangGenBase.mpl" folder="lang_dependencies.generation.independent_extends" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenIndependentLangGenExtends/LangNewGenIndependentLangGenExtends.mpl" folder="lang_dependencies.generation.independent_extends" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewGenMultiTarget/LangNewGenMultiTarget.mpl" folder="lang_dependencies.generation.target" />
@@ -33,6 +34,12 @@
       <modulePath path="$PROJECT_DIR$/languages/LangTarget/LangTarget.mpl" folder="lang_dependencies.generation.target" />
       <modulePath path="$PROJECT_DIR$/languages/LangUseEditorComponent/LangUseEditorComponent.mpl" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/languages/LangUseType/LangUseType.mpl" folder="lang_dependencies.reference" />
+      <modulePath path="$PROJECT_DIR$/languages/LanguageBase/LanguageBase.mpl" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/languages/LanguageBaseGen/LanguageBaseGen.mpl" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/languages/LanguageBaseGenExtends/LanguageBaseGenExtends.mpl" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/languages/LanguageBaseGenExtends2/LanguageBaseGenExtends2.mpl" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/languages/LanguageExtendsGen/LanguageExtendsGen.mpl" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/languages/LanguageExtendsGen2/LanguageExtendsGen2.mpl" folder="doc_example" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeDependencyLang/RuntimeDependencyLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeDependencyUsedLang/RuntimeDependencyUsedLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/RuntimeSolutionLang/RuntimeSolutionLang.mpl" folder="runtime_solution" />
@@ -75,6 +82,13 @@
       <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionTarget/RuntimeSolutionTarget.msd" folder="lang_dependencies.generation.runtime" />
       <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionTest/RuntimeSolutionTest.msd" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/solutions/RuntimeSolutionUsedLang/RuntimeSolutionUsedLang.msd" folder="runtime_solution" />
+      <modulePath path="$PROJECT_DIR$/solutions/SolutionBase/SolutionBase.msd" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/solutions/SolutionBaseGen/SolutionBaseGen.msd" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/solutions/SolutionBaseGen2/SolutionBaseGen2.msd" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/solutions/SolutionBaseGenExtends/SolutionBaseGenExtends.msd" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/solutions/SolutionBaseGenExtends2/SolutionBaseGenExtends2.msd" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/solutions/SolutionExtendsGen/SolutionExtendsGen.msd" folder="doc_example" />
+      <modulePath path="$PROJECT_DIR$/solutions/SolutionExtendsGen2/SolutionExtendsGen2.msd" folder="doc_example" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-accesstest/git4idea-accesstest.msd" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea-modelstubs/git4idea-modelstubs.msd" folder="pluginaccess" />
       <modulePath path="$PROJECT_DIR$/solutions/git4idea_testbed/git4idea_testbed.msd" folder="pluginaccess" />
