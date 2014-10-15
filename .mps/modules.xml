@@ -11,6 +11,7 @@
       <modulePath path="$PROJECT_DIR$/languages/ImplicitLangDependencies_Lang/ImplicitLangDependencies_Lang.mpl" folder="implicit_dependencies.language" />
       <modulePath path="$PROJECT_DIR$/languages/ImplicitLangDependencies_RefLangDev/ImplicitLangDependencies_RefLangDev.mpl" folder="implicit_dependencies.language" />
       <modulePath path="$PROJECT_DIR$/languages/LangBase/LangBase.mpl" folder="lang_dependencies" />
+      <modulePath path="$PROJECT_DIR$/languages/LangBehaviorUtilityModel/LangBehaviorUtilityModel.mpl" folder="lang_dependencies.behavior" />
       <modulePath path="$PROJECT_DIR$/languages/LangChild/LangChild.mpl" folder="lang_dependencies.reference" />
       <modulePath path="$PROJECT_DIR$/languages/LangExtends/LangExtends.mpl" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/languages/LangImplements/LangImplements.mpl" folder="lang_dependencies" />
@@ -60,12 +61,14 @@
       <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorCallTest/LangBehaviorCallTest.msd" folder="lang_dependencies.behavior" />
       <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorExtendsTest/LangBehaviorExtendsTest.msd" folder="lang_dependencies.behavior" />
       <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorTest/LangBehaviorTest.msd" folder="lang_dependencies.behavior" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangBehaviorUtilityModelTest/LangBehaviorUtilityModelTest.msd" folder="lang_dependencies.behavior" />
       <modulePath path="$PROJECT_DIR$/solutions/LangEditorTest/LangEditorTest.msd" folder="lang_dependencies.editor" />
       <modulePath path="$PROJECT_DIR$/solutions/LangExtendsTest/LangExtendsTest.msd" folder="lang_dependencies" />
       <modulePath path="$PROJECT_DIR$/solutions/LangGenBaseTest/LangGenBaseTest.msd" folder="lang_dependencies.generation" />
       <modulePath path="$PROJECT_DIR$/solutions/LangGenNewReductionTest/LangGenNewReductionTest.msd" folder="lang_dependencies.generation.new_gen" />
       <modulePath path="$PROJECT_DIR$/solutions/LangGenNewSwitchTest/LangGenNewSwitchTest.msd" folder="lang_dependencies.generation.new_gen" />
       <modulePath path="$PROJECT_DIR$/solutions/LangIntentionTest/LangIntentionTest.msd" folder="lang_dependencies.intention" />
+      <modulePath path="$PROJECT_DIR$/solutions/LangIntentionTest2/LangIntentionTest2.msd" folder="lang_dependencies.intention" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenIndependentLangGenTest/LangNewGenIndependentLangGenTest.msd" folder="lang_dependencies.generation.independent_extends" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenMultiTargetTest/LangNewGenMultiTargetTest.msd" folder="lang_dependencies.generation.target" />
       <modulePath path="$PROJECT_DIR$/solutions/LangNewGenRuntimeTargetTest/LangNewGenRuntimeTargetTest.msd" folder="lang_dependencies.generation.runtime" />

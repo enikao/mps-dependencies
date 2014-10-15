@@ -43,7 +43,7 @@
     </node>
   </root>
   <root type="tp5g.TestInfo" typeId="tp5g.5097124989038916362" id="358663847239519655" nodeInfo="ng">
-    <property name="projectPath" nameId="tp5g.5097124989038916363" value="/Users/nikostotz/git/mps-dependencies" />
+    <property name="projectPath" nameId="tp5g.5097124989038916363" value="/Users/nikostotz/Desktop/TestMPSProject" />
   </root>
 </model>
 
