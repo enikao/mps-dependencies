@@ -6,5 +6,8 @@
     </modelRoot>
   </models>
   <sourcePath />
+  <usedLanguages>
+    <usedLanguage>c993bec1-c014-4587-9122-f2e3d1488880(LangRuntimeContents)</usedLanguage>
+  </usedLanguages>
 </solution>
 

@@ -18,6 +18,7 @@
       </external-templates>
       <dependencies>
         <dependency reexport="false">9faa6af6-c7f1-4024-9459-6ba6067dc553(LangBase)</dependency>
+        <dependency reexport="false">115f9a4a-e7eb-4d3e-83f7-5acde42de9c5(RuntimeSolutionTarget)</dependency>
       </dependencies>
       <usedLanguages>
         <usedLanguage>626111b9-af1d-426c-9b92-cf3796ce259a(LangRuntimeTarget)</usedLanguage>

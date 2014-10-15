@@ -30,6 +30,7 @@
       <modulePath path="$PROJECT_DIR$/languages/LangNewIntention/LangNewIntention.mpl" folder="lang_dependencies.intention" />
       <modulePath path="$PROJECT_DIR$/languages/LangNewTypesystem/LangNewTypesystem.mpl" folder="lang_dependencies.typesystem" />
       <modulePath path="$PROJECT_DIR$/languages/LangRef/LangRef.mpl" folder="lang_dependencies.reference" />
+      <modulePath path="$PROJECT_DIR$/languages/LangRuntimeContents/LangRuntimeContents.mpl" folder="lang_dependencies.generation.runtime" />
       <modulePath path="$PROJECT_DIR$/languages/LangRuntimeTarget/LangRuntimeTarget.mpl" folder="lang_dependencies.generation.runtime" />
       <modulePath path="$PROJECT_DIR$/languages/LangTarget/LangTarget.mpl" folder="lang_dependencies.generation.target" />
       <modulePath path="$PROJECT_DIR$/languages/LangUseEditorComponent/LangUseEditorComponent.mpl" folder="lang_dependencies.editor" />
