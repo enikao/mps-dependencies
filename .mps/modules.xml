@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/AccessoryDependencyLang/AccessoryDependencyLang.mpl" folder="accessory_model" />
       <modulePath path="$PROJECT_DIR$/languages/AccessoryModelLang/AccessoryModelLang.mpl" folder="accessory_model" />
+      <modulePath path="$PROJECT_DIR$/languages/AcessoryModelLang2/AcessoryModelLang2.mpl" folder="accessory_model" />
       <modulePath path="$PROJECT_DIR$/languages/CircularReferencesLang/CircularReferencesLang.mpl" folder="runtime_solution" />
       <modulePath path="$PROJECT_DIR$/languages/ImplicitGeneratorDependencies_GenOwnLang/ImplicitGeneratorDependencies_GenOwnLang.mpl" folder="implicit_dependencies.generator" />
       <modulePath path="$PROJECT_DIR$/languages/ImplicitGeneratorDependencies_Lang/ImplicitGeneratorDependencies_Lang.mpl" folder="implicit_dependencies.generator" />
